@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+**🔨 Indie iOS Developer, Swift.**
+
+My Apps: [PomoNow 2](https://apps.apple.com/cn/app/id1505296579), [LiveUseful](https://itunes.apple.com/us/app/id1329941178), [MagicShare](https://apps.apple.com/us/app/id1438149621)
+
+**💎 UI·UX, Sketch.**
+
+My Dribbble: [Megabits](https://dribbble.com/Megabits)
+
+😂 Profile image is a tree, not a snail!
+
 <!--
 **megabitsenmzq/megabitsenmzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
