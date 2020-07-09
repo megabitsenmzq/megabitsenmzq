@@ -2,7 +2,9 @@
 
 **🔨 Indie iOS Developer, Swift.**
 
-My Apps: [PomoNow 2](https://apps.apple.com/cn/app/id1505296579), [LiveUseful](https://itunes.apple.com/us/app/id1329941178), [MagicShare](https://apps.apple.com/us/app/id1438149621)
+* [PomoNow 2](https://apps.apple.com/cn/app/id1505296579): A Pomodoro timer that feels different.
+* [LiveUseful](https://itunes.apple.com/us/app/id1329941178): Add a second layer to your lock screen.
+* [MagicShare](https://apps.apple.com/us/app/id1438149621): Share links face to face.
 
 **💎 UI·UX, Sketch.**
 
