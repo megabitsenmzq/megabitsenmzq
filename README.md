@@ -4,7 +4,7 @@
 
 * [PomoNow 2](https://apps.apple.com/cn/app/id1505296579): A Pomodoro timer that feels different.
 * [FishScreenReader](https://apps.apple.com/jp/app/fishscreenreader/id1527210860?mt=12): OCR screen reader for visually-impaired people.
-* [LiveUseful](https://itunes.apple.com/us/app/id1329941178)(Not available currently): Add a second layer to your lock screen.
+* [LiveUseful](https://itunes.apple.com/us/app/id1329941178) (Not available for now): Add a second layer to your lock screen.
 * [MagicShare](https://apps.apple.com/us/app/id1438149621): Share links face to face.
 
 **💎 UI·UX, Sketch.**
