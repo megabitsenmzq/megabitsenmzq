@@ -17,5 +17,3 @@ My Dribbble: [Megabits](https://dribbble.com/Megabits)
 * [MyVFD](https://github.com/megabitsenmzq/MyVFD): A 9-Digit VFD Info Station.
 
 😂 The profile image is a tree, not a snail! Please stop calling me a snail.
-
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=megabitsenmzq&title_color=fff&text_color=fff&icon_color=ccc&bg_color=000&hide_title=true&show_icons=true)
