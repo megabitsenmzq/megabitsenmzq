@@ -10,7 +10,8 @@
 
 **💎 Design, Sketch / Figma / Blender.**
 
-My Dribbble: [Megabits](https://dribbble.com/Megabits)
+* My Dribbble: [Megabits](https://dribbble.com/Megabits)
+* Artworks available for download: [Artworks](https://github.com/megabitsenmzq/Artworks)
 
 **🧶 Craft, ESP32 / 3D Print / CAD.**
 
