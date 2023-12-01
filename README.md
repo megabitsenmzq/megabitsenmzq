@@ -16,5 +16,3 @@
 **🧶 Craft, ESP32 / 3D Print / CAD.**
 
 * [MyVFD](https://github.com/megabitsenmzq/MyVFD): A 9-Digit VFD Info Station.
-
-😂 The profile image is a tree, not a snail! Please stop calling me a snail.
