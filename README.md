@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![IMG_1518 Small](https://github.com/user-attachments/assets/eb2d89d2-0cd7-4e1c-8d46-50d37f9d2ea9)
+
 **🔨 Indie iOS, macOS Developer, Swift.**
 
 * [PomoNow 2](https://apps.apple.com/app/id1505296579): A Pomodoro timer that feels different.
