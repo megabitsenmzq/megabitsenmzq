@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![IMG_1518 Small](https://github.com/user-attachments/assets/eb2d89d2-0cd7-4e1c-8d46-50d37f9d2ea9)
+<img width="300" src="https://github.com/user-attachments/assets/fe178c1a-b3b6-4902-ad22-5c02edef4ee5" />
 
 **🔨 Indie iOS, macOS Developer, Swift.**
 
